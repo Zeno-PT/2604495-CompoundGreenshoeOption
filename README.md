@@ -1,1 +1,1 @@
-# compound-greenshoe-option
+# Compound Green shoe option pricing
